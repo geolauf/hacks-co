@@ -4,10 +4,9 @@ username:
 account: geolauf001
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 2478330
-bundleId: 3306460
+appId: xxxxxxx
+bundleId: xxxxxxx
 url: https://geolauf001.shinyapps.io/Reg2BreakoutRoomsConstrained/
 when: 1592918498.5083
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: assign_breakout_rooms.csv|full_table.csv|info.csv
